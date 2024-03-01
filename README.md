@@ -1,5 +1,5 @@
 # Awesome-Data-Curation
-This repository aims to compile a curated list of exceptional data curation ideas, tools, and more, designed to enhance machine learning scalability by providing better data. Additionally, this repository contains curation methods for Natural Language Processing, Computer Vision, and Multimodal Models. Inspired by [awesome-python](https://github.com/vinta/awesome-python) and originally created by [fasouto](https://github.com/fasouto).
+This repository aims to compile a curated list of exceptional data curation ideas, tools, and more, designed to enhance machine learning scalability by providing better data. Additionally, this repository contains curation methods for Natural Language Processing, Computer Vision, and Multimodal Models. Data curation is also a fundamental process to train or fine-tune LLMs or Diffusion models. Inspired by [awesome-python](https://github.com/vinta/awesome-python) and originally created by [fasouto](https://github.com/fasouto).
 
 
 # Tools
@@ -26,6 +26,8 @@ are close to those in several curated datasets.
 - [Process for Adapting Language Models to Society (PALMS) with Values-Targeted Datasets](https://cdn.openai.com/palms.pdf): We found that fine-tuning on a small but curated dataset can help improve language model behavior and have a larger impact as model size increases. 
 - [Identifying Mislabeled Data using the Area Under the Margin Ranking](https://arxiv.org/abs/2001.10528): Not all data in a typical training set help with generalization; some samples can be overly ambiguous or outrightly mislabeled. This paper introduces a new method to identify such samples and mitigate their impact when training neural networks. 
 - [Gemini: A Family of Highly CapableMultimodal Models](https://arxiv.org/abs/2312.11805): Prior to training, we take various steps to mitigate potential downstream harms at the data curation and data collection stage.
+- [A Survey on Data Selection for Language Models](https://arxiv.org/abs/2402.16827): We present a comprehensive review of existing literature on data selection methods and related research areas, providing a taxonomy of existing
+approaches. 
 
 ## Blog
 - [Thinking about High-Quality Human Data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/): High-quality data is the fuel for modern data deep learning model training.

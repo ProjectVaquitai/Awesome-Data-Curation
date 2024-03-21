@@ -9,6 +9,8 @@ This repository aims to compile a curated list of exceptional data curation idea
 ## Cleaning
 - [Cleanlab](https://github.com/cleanlab/cleanlab): Cleanlab helps you clean data and labels by automatically detecting issues in a ML dataset. 
 - [Docta](https://github.com/Docta-ai/docta): Docta is an advanced data-centric AI platform that offers a comprehensive range of services aimed at detecting and rectifying issues in your data.
+- [NeMo-Curator](https://github.com/NVIDIA/NeMo-Curator): NeMo Curator is a Python library that consists of a collection of scalable data-mining modules for curating natural language processing (NLP) data for training large language models (LLMs).
+- [Lilac](https://github.com/lilacai/lilac): Lilac is a tool for exploration, curation and quality control of datasets for training, fine-tuning and monitoring LLMs.
 
 ## Mining
 - [Lightly.ai](https://www.lightly.ai/): Lightly selects the subset of your data with the biggest impact on model accuracy, allowing you to improve your model iteratively by using the best data for retraining.
